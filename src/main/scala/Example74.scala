@@ -2,6 +2,8 @@ import doodle.core._
 import doodle.image._
 import doodle.image.syntax._
 import doodle.image.syntax.core._
+import doodle.java2d._
+import doodle.reactor._
 
 // "cross" in section 7.4
 object Example74 {

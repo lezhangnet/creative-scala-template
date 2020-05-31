@@ -6,7 +6,7 @@ import doodle.java2d._
 import doodle.reactor._
 
 // "cross" in section 7.4
-object Example74 {
+object Section0704 {
   def cross(count: Int): Image = {
     count match {
       case 0 =>
